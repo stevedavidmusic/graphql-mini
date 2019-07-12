@@ -7,6 +7,7 @@ const {
   GraphQLInt,
   GraphQLList,
   GraphQLNonNull
+  ///
 } = require("graphql");
 
 let characters = require('./model')
